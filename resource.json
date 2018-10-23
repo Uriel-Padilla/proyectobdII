@@ -1,0 +1,37 @@
+[
+  {
+   "idJugador": 1,
+    "nombre": "Pedro",
+    "nivel": 5,
+    "edad": 15,
+    "es estudiante": true
+  },
+   {
+   "idJugador": 2,
+    "nombre": "Juan",
+    "nivel": 7,
+    "edad": 20,
+    "es estudiante": true
+  },
+  {
+   "idJugador": 3,
+    "nombre": "Luis",
+    "nivel": 10,
+    "edad": 22,
+    "es estudiante": true
+  },
+  {
+   "idJugador": 4,
+    "nombre": "José",
+    "nivel": 4,
+    "edad": 12,
+    "es estudiante": true
+  },
+  {
+   "idJugador": 5,
+    "nombre": "Fernando",
+    "nivel": 9,
+    "edad": 14,
+    "es estudiante": true
+  }
+]
